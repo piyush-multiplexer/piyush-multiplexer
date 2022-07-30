@@ -10,6 +10,5 @@
 
 
 ##### Bookmarks
-
-<!--  daily.dev_BOOKMARKS:START -->
-<!--  daily.dev_BOOKMARKS:END -->
+<!--  dailydev-BOOKMARKS:START -->
+<!--  dailydev-BOOKMARKS:END -->
