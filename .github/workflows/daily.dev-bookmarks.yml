@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "daily.dev BOOKMARKS"
+          comment_tag_name: "daily.dev_BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/c218649a-9710-4ad3-8ef4-d9cc6f5ca6e0"
