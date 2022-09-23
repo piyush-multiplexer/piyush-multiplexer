@@ -52,7 +52,8 @@ Full Stack Engineer Working in Majorly JavaScript Based Technology. Machine Lear
 * [Introduction to WebAssembly(Wasm) with Rust for Beginners](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;introduction-to-webassemblywasm-with-rust-for-beginners)
 * [Natural Language Processing with JavaScript using Compromise](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;natural-language-processing-with-javascript-using-compromise)
 * [Dedicated and Shared Web Worker with Performance Testing](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;dedicated-and-shared-web-worker-with-performance-testing)
-* [XML parsing with NodeJS](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;xml-parsing-with-nodejs)
+* [Build ChatBot with ChatterBot and Python - Part 1](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;build-chatbot-with-chatterbot-and-python-part-1)
+* [Setup Ghost Webhook for Custom Email Newsletter](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;setup-ghost-webhook-for-custom-email-newsletter)
 <!--END_SECTION:posts-->
 
 ### Badges
