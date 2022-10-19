@@ -48,11 +48,11 @@ Full Stack Engineer Working in Majorly JavaScript Based Technology. Machine Lear
 
 ### Articles 
 <!--START_SECTION:posts-->
+* [Preliminary Go Language for Beginners](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;preliminary-go-language-for-beginners)
 * [AWS Amplify: All in One Framework that you need](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;aws-amplify-all-in-one-framework-that-you-need)
 * [Introduction to WebAssembly(Wasm) with Rust for Beginners](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;introduction-to-webassemblywasm-with-rust-for-beginners)
 * [Natural Language Processing with JavaScript using Compromise](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;natural-language-processing-with-javascript-using-compromise)
 * [Dedicated and Shared Web Worker with Performance Testing](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;dedicated-and-shared-web-worker-with-performance-testing)
-* [XML parsing with NodeJS](https:&#x2F;&#x2F;blog.thesourcepedia.org&#x2F;xml-parsing-with-nodejs)
 <!--END_SECTION:posts-->
 
 ### Badges
