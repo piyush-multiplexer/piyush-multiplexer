@@ -12,8 +12,8 @@ Full Stack Engineer Working in Majorly JavaScript Based Technology. Machine Lear
 * 🚀  Currently Engineering on [TheSourcePedia Project](https://thesourcepedia.org)
 * ✨  I'm learning ML and Blockchain(Web3)
 * 🖥️ Read and Subscribe at My Blog [TSP Blog](https://blog.thesourcepedia.org)
-* 🔭 Software Developer at [eZee Technosys](https://ezeetechnosys.com/)
-* 🤝  I'm open to collaborating on JavaScript Based Projects and Content Writing
+* 🔭 Software Engineer at [Numerator](https://www.numerator.com/)
+* 🤝  I'm open to collaborating on JavaScript/Python Based Projects and Content Writing
 
 ### Skills
 
