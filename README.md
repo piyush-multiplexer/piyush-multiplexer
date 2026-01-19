@@ -7,7 +7,7 @@ Senior Software Engineer
 Full Stack Engineer Working in Majorly JavaScript Based Technology. Machine Learning Enthusiastic and Occasionally Python Coder. Founder of [TheSourcePedia](https://thesourcepedia.org)
 
 * 🌍  I'm based in India
-* 📫 Visit My Portfolio [Piyush Goyani](https://i.piyushgoyani.cpm)
+* 📫 Visit My Portfolio [Piyush Goyani](https://i.piyushgoyani.com)
 * ✉️  You can contact me at [thesourcepedia@gmail.com](mailto:thesourcepedia@gmail.com)
 * 🚀  Currently Engineering on [TheSourcePedia Project](https://piyushgoyani.com)
 * ✨  I'm learning ML and Blockchain(Web3)
